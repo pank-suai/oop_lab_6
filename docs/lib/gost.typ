@@ -2,7 +2,7 @@
 
 
 #let init(body) = {
-  titlepage(authors: ("В.Д. Панков",), city: "Санкт-Петербург", department: "Кафедра № ", documentName: "ОТЧЁТ ПО ЛАБОРАТОРНОЙ РАБОТЕ", education: "ГУАП", group: "М412", teachers: (), position: "")
+  titlepage(title: "Лабораторная работа №6 «Обработка исключительных ситуаций»", authors: ("В.Д. Панков",), city: "Санкт-Петербург", department: "Кафедра № ", documentName: "ОТЧЁТ ПО ЛАБОРАТОРНОЙ РАБОТЕ", education: "ГУАП", group: "М412", teachers: (), position: "")
   
   set text(
     font: "Times New Roman",
