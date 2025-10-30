@@ -2,3 +2,9 @@ build/
 *~
 ~*
 #*#
+*.pdf
+a.out
+test_array
+test_prog
+tests/test_Array
+manual.txt
